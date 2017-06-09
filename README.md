@@ -1,6 +1,6 @@
 # AdvancedStatInference
 ----------
-Naive Bayes and Bayesian Linear Regression implementation from scratch, used for the classification of MNIST and CIFAR10 datasets. 
+Naive Bayes and Bayesian Linear Regression implementation from scratch, used for the classification of MNIST and CIFAR10 datasets. 98% of accuracy achieved using Convolutional layers from a CNN implemented in keras.
 
 The Notebook is based on publicly available data from [MNIST](http://yann.lecun.com/exdb/mnist/) and [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html) datasets. Due to its weight, we have opted for leaving the data files out of this repository. In order to use this notebook, please download the following files and keep them in the root directory:
 * MNIST: [Train images](http://yann.lecun.com/exdb/mnist/train-images-idx3-ubyte.gz), [Train labels](http://yann.lecun.com/exdb/mnist/train-labels-idx1-ubyte.gz), [Test images](http://yann.lecun.com/exdb/mnist/t10k-images-idx3-ubyte.gz), [Test labels](http://yann.lecun.com/exdb/mnist/t10k-labels-idx1-ubyte.gz) 
